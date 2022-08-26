@@ -14,9 +14,10 @@ setup(
     # url="https://github.com/clement-bonnet/medium-first-package",
     url="https://github.com/myNKUST/myprimelib9b.git",
     
-    # find the package module name in myprimelib9b/_init_.py: 
+    #find_packages():find the package module name in myprimelib9b/_init_.py: 
     #from myprimelib9b.prime_numbers import is_prime
-    packages=find_packages(), 
+    #packages=find_packages(), 
+    packages=['myprimelib9b'], 
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

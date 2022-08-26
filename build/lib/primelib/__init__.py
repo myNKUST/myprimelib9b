@@ -1,1 +1,0 @@
-from myprimelib9b.prime_numbers import is_prime
