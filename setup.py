@@ -11,6 +11,8 @@ setup(
     description="Create A small package to work with prime numbers",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    
+    # url is not required
     # url="https://github.com/clement-bonnet/medium-first-package",
     url="https://github.com/myNKUST/myprimelib9b.git",
     
